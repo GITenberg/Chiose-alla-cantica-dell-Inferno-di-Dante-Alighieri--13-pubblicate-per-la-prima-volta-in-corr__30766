@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8665
     wikipedia: http://it.wikipedia.org/wiki/Giulio_Piccini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30766#Chiose-alla-cantica-dell-Inferno-di-Dante-Alighieri--13-pubblicate-per-la-prima-volta-in-corr_
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2009-12-26'
 gutenberg_type: Text
