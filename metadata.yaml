@@ -1,0 +1,38 @@
+_repo: Chiose-alla-cantica-dell-Inferno-di-Dante-Alighieri--13-pubblicate-per-la-prima-volta-in-corr__30766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alighieri, Jacopo, active 14th century
+    aliases:
+    - Alighieri, Iacopo
+    - Alighieri, Jacopo di Dante
+    gutenberg_agent_id: '34817'
+    url: http://www.gutenberg.org/2009/agents/34817
+  editor:
+    agent_name: Jarro
+    alias: Piccini, Giulio
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '8665'
+    url: http://www.gutenberg.org/2009/agents/8665
+    wikipedia: http://it.wikipedia.org/wiki/Giulio_Piccini
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2009-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30766'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Dante Alighieri, 1265-1321. Inferno'
+title: "Chiose alla cantica dell'Inferno di Dante Alighieri\r\npubblicate per la prima\
+  \ volta in corretta lezione con riscontri e fac-simili di codici, e precedute da\
+  \ una indagine critica"
+url: http://www.gutenberg.org/ebooks/30766
